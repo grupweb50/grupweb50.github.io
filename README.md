@@ -1,2 +1,2 @@
-# rickchat
-Ejemplo de un chat y acceso a Firebase (Firestore con Google)
+# grupweb50.github.io
+Ejemplo De Conexión a la B.D con Firebase
